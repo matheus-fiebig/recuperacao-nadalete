@@ -6,4 +6,4 @@ Integrantes: Matheus Cruz Fiebig
 ### Integrantes
 
 * Matheus Cruz Fiebig
-* Item 2
+* Karolina Flores
