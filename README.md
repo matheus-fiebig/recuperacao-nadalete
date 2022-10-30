@@ -3,4 +3,4 @@
 ### Integrantes
 
 * Matheus Cruz Fiebig
-* Karolina Flores
+* Karolina Maria Flores Lourenço
